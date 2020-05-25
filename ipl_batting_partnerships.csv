@@ -1,0 +1,425 @@
+index,team,player_1,player_2,score_1,score_2
+0,Chennai Super Kings,AT Rayudu,SR Watson,7,0
+1,Chennai Super Kings,AT Rayudu,SK Raina,12,19
+2,Chennai Super Kings,AT Rayudu,KM Jadhav,9,9
+3,Chennai Super Kings,RA Jadeja,KM Jadhav,6,4
+19,Sunrisers Hyderabad,DA Warner,JM Bairstow,74,39
+20,Sunrisers Hyderabad,DA Warner,V Shankar,11,14
+21,Sunrisers Hyderabad,YK Pathan,V Shankar,1,6
+22,Sunrisers Hyderabad,MK Pandey,V Shankar,8,20
+23,Mumbai Indians,RG Sharma,Q de Kock,14,18
+24,Mumbai Indians,Q de Kock,SA Yadav,1,2
+25,Mumbai Indians,Yuvraj Singh,Q de Kock,0,8
+26,Mumbai Indians,Yuvraj Singh,KA Pollard,28,21
+27,Mumbai Indians,Yuvraj Singh,HH Pandya,0,0
+28,Mumbai Indians,Yuvraj Singh,KH Pandya,5,32
+29,Mumbai Indians,Yuvraj Singh,BCJ Cutting,14,3
+30,Mumbai Indians,Yuvraj Singh,MJ McClenaghan,6,9
+31,Mumbai Indians,MJ McClenaghan,Rasikh Salam,1,5
+32,Delhi Capitals,S Dhawan,PP Shaw,2,7
+33,Delhi Capitals,S Dhawan,SS Iyer,2,16
+34,Delhi Capitals,S Dhawan,CA Ingram,36,47
+35,Delhi Capitals,S Dhawan,RR Pant,3,16
+36,Delhi Capitals,KMA Paul,RR Pant,3,21
+37,Delhi Capitals,AR Patel,RR Pant,4,4
+38,Delhi Capitals,R Tewatia,RR Pant,9,37
+54,Chennai Super Kings,AT Rayudu,SR Watson,5,16
+55,Chennai Super Kings,SR Watson,SK Raina,28,19
+56,Chennai Super Kings,SK Raina,KM Jadhav,11,14
+57,Chennai Super Kings,MS Dhoni,KM Jadhav,32,13
+58,Chennai Super Kings,MS Dhoni,DJ Bravo,0,4
+59,Delhi Capitals,S Dhawan,PP Shaw,10,24
+60,Delhi Capitals,S Dhawan,SS Iyer,24,18
+61,Delhi Capitals,S Dhawan,RR Pant,13,25
+62,Delhi Capitals,S Dhawan,CA Ingram,0,2
+63,Delhi Capitals,S Dhawan,KMA Paul,1,0
+64,Delhi Capitals,S Dhawan,AR Patel,3,1
+65,Delhi Capitals,R Tewatia,AR Patel,11,8
+82,Mumbai Indians,RG Sharma,Q de Kock,31,23
+83,Mumbai Indians,RG Sharma,SA Yadav,17,12
+84,Mumbai Indians,Yuvraj Singh,SA Yadav,23,13
+85,Mumbai Indians,KA Pollard,SA Yadav,4,13
+86,Mumbai Indians,KA Pollard,KH Pandya,1,1
+87,Mumbai Indians,KH Pandya,HH Pandya,0,1
+88,Mumbai Indians,MJ McClenaghan,HH Pandya,1,0
+89,Mumbai Indians,HH Pandya,M Markande,18,6
+90,Mumbai Indians,HH Pandya,JJ Bumrah,13,0
+91,Sunrisers Hyderabad,DA Warner,JM Bairstow,69,39
+92,Sunrisers Hyderabad,KS Williamson,JM Bairstow,1,6
+93,Sunrisers Hyderabad,KS Williamson,V Shankar,13,34
+94,Sunrisers Hyderabad,MK Pandey,V Shankar,1,1
+95,Sunrisers Hyderabad,YK Pathan,MK Pandey,0,0
+96,Sunrisers Hyderabad,YK Pathan,Rashid Khan,16,15
+103,Mumbai Indians,RG Sharma,Q de Kock,32,19
+104,Mumbai Indians,Q de Kock,SA Yadav,0,11
+105,Mumbai Indians,Yuvraj Singh,Q de Kock,15,41
+106,Mumbai Indians,Yuvraj Singh,KA Pollard,3,2
+107,Mumbai Indians,KA Pollard,HH Pandya,5,15
+108,Mumbai Indians,KH Pandya,HH Pandya,10,4
+109,Mumbai Indians,MJ McClenaghan,HH Pandya,0,12
+110,Mumbai Indians,MJ McClenaghan,M Markande,0,0
+111,Delhi Capitals,S Dhawan,PP Shaw,16,11
+112,Delhi Capitals,SS Iyer,PP Shaw,43,44
+113,Delhi Capitals,RR Pant,PP Shaw,11,42
+114,Delhi Capitals,CA Ingram,PP Shaw,1,2
+115,Delhi Capitals,CA Ingram,GH Vihari,8,2
+116,Delhi Capitals,CA Ingram,HV Patel,1,0
+135,Sunrisers Hyderabad,DA Warner,JM Bairstow,70,114
+136,Sunrisers Hyderabad,DA Warner,V Shankar,8,9
+137,Sunrisers Hyderabad,YK Pathan,DA Warner,6,22
+147,Chennai Super Kings,AT Rayudu,SR Watson,1,0
+148,Chennai Super Kings,SR Watson,SK Raina,13,0
+149,Chennai Super Kings,SK Raina,KM Jadhav,5,8
+150,Chennai Super Kings,MS Dhoni,SK Raina,28,31
+151,Chennai Super Kings,MS Dhoni,DJ Bravo,26,27
+152,Chennai Super Kings,MS Dhoni,RA Jadeja,21,8
+153,Delhi Capitals,S Dhawan,PP Shaw,0,0
+154,Delhi Capitals,S Dhawan,SS Iyer,27,28
+155,Delhi Capitals,S Dhawan,RR Pant,3,14
+156,Delhi Capitals,CA Ingram,RR Pant,37,25
+157,Delhi Capitals,CA Ingram,CH Morris,0,0
+158,Delhi Capitals,CA Ingram,GH Vihari,1,2
+159,Delhi Capitals,HV Patel,GH Vihari,0,0
+160,Delhi Capitals,GH Vihari,K Rabada,0,0
+161,Delhi Capitals,K Rabada,Avesh Khan,0,4
+162,Delhi Capitals,Avesh Khan,S Lamichhane,0,0
+182,Chennai Super Kings,AT Rayudu,SR Watson,0,1
+183,Chennai Super Kings,SR Watson,SK Raina,4,0
+184,Chennai Super Kings,SK Raina,KM Jadhav,16,10
+185,Chennai Super Kings,MS Dhoni,KM Jadhav,12,36
+186,Chennai Super Kings,RA Jadeja,KM Jadhav,1,1
+187,Chennai Super Kings,DJ Bravo,KM Jadhav,2,11
+188,Chennai Super Kings,DJ Bravo,DL Chahar,6,1
+189,Chennai Super Kings,DL Chahar,SN Thakur,6,1
+190,Chennai Super Kings,SN Thakur,MM Sharma,11,0
+191,Mumbai Indians,RG Sharma,Q de Kock,3,4
+192,Mumbai Indians,RG Sharma,SA Yadav,10,26
+193,Mumbai Indians,Yuvraj Singh,SA Yadav,4,1
+194,Mumbai Indians,SA Yadav,KH Pandya,20,42
+195,Mumbai Indians,SA Yadav,HH Pandya,12,1
+196,Mumbai Indians,KA Pollard,HH Pandya,17,24
+197,Sunrisers Hyderabad,DA Warner,JM Bairstow,7,48
+198,Sunrisers Hyderabad,DA Warner,V Shankar,3,1
+199,Sunrisers Hyderabad,MK Pandey,V Shankar,10,15
+200,Sunrisers Hyderabad,V Shankar,DJ Hooda,0,6
+201,Sunrisers Hyderabad,YK Pathan,DJ Hooda,6,4
+202,Sunrisers Hyderabad,YK Pathan,Mohammad Nabi,3,17
+203,Delhi Capitals,S Dhawan,PP Shaw,3,11
+204,Delhi Capitals,S Dhawan,SS Iyer,9,12
+205,Delhi Capitals,SS Iyer,RR Pant,11,5
+206,Delhi Capitals,R Tewatia,SS Iyer,5,3
+207,Delhi Capitals,CA Ingram,SS Iyer,5,8
+208,Delhi Capitals,CH Morris,SS Iyer,8,9
+209,Delhi Capitals,CH Morris,AR Patel,9,4
+210,Delhi Capitals,K Rabada,AR Patel,3,5
+211,Delhi Capitals,I Sharma,AR Patel,0,14
+228,Chennai Super Kings,SR Watson,F du Plessis,26,29
+229,Chennai Super Kings,SK Raina,F du Plessis,17,25
+230,Chennai Super Kings,MS Dhoni,SK Raina,0,0
+231,Chennai Super Kings,MS Dhoni,AT Rayudu,37,21
+232,Sunrisers Hyderabad,DA Warner,JM Bairstow,15,16
+233,Sunrisers Hyderabad,DA Warner,V Shankar,0,0
+234,Sunrisers Hyderabad,MK Pandey,V Shankar,4,5
+235,Sunrisers Hyderabad,MK Pandey,DJ Hooda,12,7
+236,Sunrisers Hyderabad,YK Pathan,DJ Hooda,0,1
+237,Sunrisers Hyderabad,Mohammad Nabi,DJ Hooda,11,12
+238,Sunrisers Hyderabad,Mohammad Nabi,Rashid Khan,0,0
+239,Sunrisers Hyderabad,Mohammad Nabi,B Kumar,0,1
+240,Sunrisers Hyderabad,B Kumar,S Kaul,1,0
+241,Sunrisers Hyderabad,S Kaul,Sandeep Sharma,0,5
+242,Mumbai Indians,RG Sharma,Q de Kock,11,10
+243,Mumbai Indians,Q de Kock,SA Yadav,0,7
+244,Mumbai Indians,Q de Kock,Ishan Kishan,9,6
+245,Mumbai Indians,KH Pandya,Ishan Kishan,6,11
+246,Mumbai Indians,KA Pollard,Ishan Kishan,2,0
+247,Mumbai Indians,KA Pollard,HH Pandya,6,14
+248,Mumbai Indians,KA Pollard,RD Chahar,1,10
+249,Mumbai Indians,KA Pollard,AS Joseph,37,0
+250,Delhi Capitals,S Dhawan,PP Shaw,0,1
+251,Delhi Capitals,SS Iyer,PP Shaw,33,27
+252,Delhi Capitals,CA Ingram,SS Iyer,22,15
+253,Delhi Capitals,SS Iyer,RR Pant,19,16
+254,Delhi Capitals,CH Morris,RR Pant,0,0
+255,Delhi Capitals,AR Patel,RR Pant,0,2
+256,Delhi Capitals,R Tewatia,AR Patel,1,4
+278,Sunrisers Hyderabad,DA Warner,JM Bairstow,1,1
+279,Sunrisers Hyderabad,DA Warner,V Shankar,20,26
+280,Sunrisers Hyderabad,Mohammad Nabi,DA Warner,12,12
+281,Sunrisers Hyderabad,DA Warner,MK Pandey,36,19
+282,Sunrisers Hyderabad,DA Warner,DJ Hooda,1,14
+283,Chennai Super Kings,SR Watson,F du Plessis,17,1
+284,Chennai Super Kings,SK Raina,F du Plessis,14,2
+285,Chennai Super Kings,AT Rayudu,F du Plessis,21,24
+286,Chennai Super Kings,F du Plessis,KM Jadhav,16,8
+297,Mumbai Indians,Q de Kock,SD Lad,13,15
+298,Mumbai Indians,Q de Kock,SA Yadav,7,21
+299,Mumbai Indians,KA Pollard,Q de Kock,2,4
+300,Mumbai Indians,KA Pollard,Ishan Kishan,23,7
+301,Mumbai Indians,KA Pollard,HH Pandya,16,19
+302,Mumbai Indians,KA Pollard,KH Pandya,1,1
+303,Mumbai Indians,KA Pollard,AS Joseph,41,12
+304,Mumbai Indians,AS Joseph,RD Chahar,3,1
+310,Chennai Super Kings,SR Watson,F du Plessis,0,0
+311,Chennai Super Kings,SK Raina,F du Plessis,4,1
+312,Chennai Super Kings,AT Rayudu,F du Plessis,4,6
+313,Chennai Super Kings,AT Rayudu,KM Jadhav,8,1
+314,Chennai Super Kings,MS Dhoni,AT Rayudu,44,45
+315,Chennai Super Kings,MS Dhoni,RA Jadeja,14,9
+316,Chennai Super Kings,RA Jadeja,MJ Santner,0,10
+325,Delhi Capitals,S Dhawan,PP Shaw,18,14
+326,Delhi Capitals,S Dhawan,SS Iyer,19,6
+327,Delhi Capitals,S Dhawan,RR Pant,56,46
+328,Delhi Capitals,S Dhawan,CA Ingram,4,14
+344,Mumbai Indians,RG Sharma,Q de Kock,47,49
+345,Mumbai Indians,Q de Kock,SA Yadav,5,16
+346,Mumbai Indians,KA Pollard,Q de Kock,6,12
+347,Mumbai Indians,Q de Kock,HH Pandya,15,11
+348,Mumbai Indians,HH Pandya,Ishan Kishan,7,5
+349,Mumbai Indians,KH Pandya,HH Pandya,0,10
+358,Chennai Super Kings,SR Watson,F du Plessis,6,23
+359,Chennai Super Kings,SK Raina,F du Plessis,14,1
+360,Chennai Super Kings,AT Rayudu,SK Raina,5,11
+361,Chennai Super Kings,SK Raina,KM Jadhav,0,20
+362,Chennai Super Kings,MS Dhoni,SK Raina,16,24
+363,Chennai Super Kings,SK Raina,RA Jadeja,9,31
+372,Sunrisers Hyderabad,DA Warner,JM Bairstow,29,41
+373,Sunrisers Hyderabad,DA Warner,KS Williamson,3,3
+374,Sunrisers Hyderabad,DA Warner,RK Bhui,15,7
+375,Sunrisers Hyderabad,DA Warner,V Shankar,4,1
+376,Sunrisers Hyderabad,V Shankar,DJ Hooda,0,0
+377,Sunrisers Hyderabad,DJ Hooda,Abhishek Sharma,3,1
+378,Sunrisers Hyderabad,Rashid Khan,Abhishek Sharma,0,0
+379,Sunrisers Hyderabad,B Kumar,Abhishek Sharma,1,1
+380,Sunrisers Hyderabad,B Kumar,Sandeep Sharma,1,1
+381,Sunrisers Hyderabad,Sandeep Sharma,KK Ahmed,0,0
+382,Delhi Capitals,S Dhawan,PP Shaw,7,4
+383,Delhi Capitals,S Dhawan,C Munro,0,8
+384,Delhi Capitals,C Munro,SS Iyer,32,16
+385,Delhi Capitals,SS Iyer,RR Pant,29,23
+386,Delhi Capitals,CH Morris,RR Pant,2,0
+387,Delhi Capitals,CH Morris,AR Patel,2,3
+388,Delhi Capitals,AR Patel,KMA Paul,10,7
+389,Delhi Capitals,K Rabada,AR Patel,2,1
+390,Mumbai Indians,RG Sharma,Q de Kock,28,40
+391,Mumbai Indians,Q de Kock,SA Yadav,0,1
+392,Mumbai Indians,SA Yadav,Ishan Kishan,12,21
+393,Mumbai Indians,SA Yadav,KH Pandya,16,8
+394,Mumbai Indians,KH Pandya,HH Pandya,3,15
+395,Mumbai Indians,KA Pollard,HH Pandya,0,22
+419,Sunrisers Hyderabad,DA Warner,JM Bairstow,50,15
+420,Sunrisers Hyderabad,KS Williamson,JM Bairstow,3,2
+421,Sunrisers Hyderabad,JM Bairstow,V Shankar,27,7
+422,Sunrisers Hyderabad,JM Bairstow,DJ Hooda,11,13
+423,Sunrisers Hyderabad,YK Pathan,JM Bairstow,0,6
+424,Chennai Super Kings,SR Watson,F du Plessis,31,45
+425,Chennai Super Kings,SK Raina,F du Plessis,2,0
+426,Chennai Super Kings,AT Rayudu,SK Raina,5,11
+427,Chennai Super Kings,AT Rayudu,KM Jadhav,1,1
+428,Chennai Super Kings,AT Rayudu,SW Billings,1,0
+429,Chennai Super Kings,AT Rayudu,RA Jadeja,18,10
+430,Delhi Capitals,S Dhawan,PP Shaw,35,14
+431,Delhi Capitals,C Munro,PP Shaw,3,6
+432,Delhi Capitals,C Munro,SS Iyer,0,2
+433,Delhi Capitals,SS Iyer,RR Pant,1,1
+434,Delhi Capitals,AR Patel,RR Pant,6,6
+435,Delhi Capitals,CH Morris,AR Patel,11,20
+436,Delhi Capitals,AR Patel,KMA Paul,0,0
+437,Delhi Capitals,K Rabada,AR Patel,0,0
+438,Delhi Capitals,A Mishra,K Rabada,3,9
+439,Delhi Capitals,A Mishra,I Sharma,3,0
+440,Mumbai Indians,RG Sharma,Q de Kock,30,25
+441,Mumbai Indians,BCJ Cutting,Q de Kock,2,3
+442,Mumbai Indians,Q de Kock,SA Yadav,7,5
+443,Mumbai Indians,SA Yadav,KH Pandya,21,9
+444,Mumbai Indians,KH Pandya,HH Pandya,20,32
+445,Mumbai Indians,KA Pollard,KH Pandya,0,8
+462,Mumbai Indians,RG Sharma,Q de Kock,5,6
+463,Mumbai Indians,Q de Kock,SA Yadav,56,34
+464,Mumbai Indians,Q de Kock,HH Pandya,3,0
+465,Mumbai Indians,KA Pollard,HH Pandya,10,3
+466,Mumbai Indians,BCJ Cutting,HH Pandya,6,20
+467,Mumbai Indians,BCJ Cutting,KH Pandya,7,2
+468,Delhi Capitals,S Dhawan,PP Shaw,11,13
+469,Delhi Capitals,S Dhawan,SS Iyer,45,39
+470,Delhi Capitals,SS Iyer,RR Pant,5,6
+471,Delhi Capitals,CA Ingram,SS Iyer,19,6
+472,Delhi Capitals,AR Patel,SS Iyer,1,0
+473,Delhi Capitals,SS Iyer,SE Rutherford,8,2
+482,Sunrisers Hyderabad,DA Warner,JM Bairstow,67,59
+483,Sunrisers Hyderabad,KS Williamson,JM Bairstow,8,21
+493,Chennai Super Kings,SR Watson,F du Plessis,5,1
+494,Chennai Super Kings,SK Raina,F du Plessis,0,0
+495,Chennai Super Kings,AT Rayudu,F du Plessis,1,4
+496,Chennai Super Kings,AT Rayudu,KM Jadhav,2,9
+497,Chennai Super Kings,MS Dhoni,AT Rayudu,26,26
+498,Chennai Super Kings,MS Dhoni,RA Jadeja,12,11
+499,Chennai Super Kings,MS Dhoni,DJ Bravo,22,5
+500,Chennai Super Kings,MS Dhoni,SN Thakur,24,0
+509,Delhi Capitals,S Dhawan,PP Shaw,54,18
+510,Delhi Capitals,SS Iyer,PP Shaw,4,1
+511,Delhi Capitals,RR Pant,PP Shaw,60,23
+512,Delhi Capitals,SE Rutherford,RR Pant,11,3
+513,Delhi Capitals,CA Ingram,RR Pant,3,15
+520,Chennai Super Kings,SR Watson,F du Plessis,2,1
+521,Chennai Super Kings,SR Watson,SK Raina,33,38
+522,Chennai Super Kings,AT Rayudu,SR Watson,18,61
+523,Chennai Super Kings,AT Rayudu,KM Jadhav,3,10
+524,Chennai Super Kings,DJ Bravo,KM Jadhav,0,1
+525,Sunrisers Hyderabad,DA Warner,JM Bairstow,4,0
+526,Sunrisers Hyderabad,DA Warner,MK Pandey,53,60
+527,Sunrisers Hyderabad,MK Pandey,V Shankar,20,26
+528,Sunrisers Hyderabad,YK Pathan,MK Pandey,5,3
+557,Chennai Super Kings,SR Watson,M Vijay,8,1
+558,Chennai Super Kings,SK Raina,M Vijay,2,11
+559,Chennai Super Kings,AT Rayudu,M Vijay,0,12
+560,Chennai Super Kings,M Vijay,KM Jadhav,5,6
+561,Chennai Super Kings,M Vijay,DR Shorey,7,5
+562,Chennai Super Kings,DJ Bravo,M Vijay,3,2
+563,Chennai Super Kings,DJ Bravo,MJ Santner,17,14
+564,Chennai Super Kings,DL Chahar,MJ Santner,0,1
+565,Chennai Super Kings,Harbhajan Singh,MJ Santner,1,1
+566,Chennai Super Kings,Imran Tahir,MJ Santner,0,6
+567,Mumbai Indians,RG Sharma,Q de Kock,8,15
+568,Mumbai Indians,RG Sharma,E Lewis,41,32
+569,Mumbai Indians,RG Sharma,KH Pandya,1,1
+570,Mumbai Indians,RG Sharma,HH Pandya,17,4
+571,Mumbai Indians,KA Pollard,HH Pandya,13,19
+576,Sunrisers Hyderabad,DA Warner,KS Williamson,13,13
+577,Sunrisers Hyderabad,DA Warner,MK Pandey,24,50
+578,Sunrisers Hyderabad,MK Pandey,V Shankar,11,7
+579,Sunrisers Hyderabad,Shakib Al Hasan,V Shankar,3,1
+580,Sunrisers Hyderabad,Shakib Al Hasan,DJ Hooda,2,0
+581,Sunrisers Hyderabad,Shakib Al Hasan,WP Saha,4,5
+582,Sunrisers Hyderabad,Shakib Al Hasan,Rashid Khan,0,0
+583,Sunrisers Hyderabad,B Kumar,Rashid Khan,1,5
+584,Sunrisers Hyderabad,S Kaul,Rashid Khan,0,12
+593,Delhi Capitals,S Dhawan,PP Shaw,16,18
+594,Delhi Capitals,S Dhawan,SS Iyer,34,34
+595,Delhi Capitals,SS Iyer,RR Pant,17,7
+596,Delhi Capitals,CA Ingram,SS Iyer,1,1
+597,Delhi Capitals,CA Ingram,SE Rutherford,10,2
+598,Delhi Capitals,AR Patel,SE Rutherford,16,26
+599,Mumbai Indians,RG Sharma,Q de Kock,8,0
+600,Mumbai Indians,RG Sharma,E Lewis,4,8
+601,Mumbai Indians,E Lewis,SA Yadav,7,13
+602,Mumbai Indians,KA Pollard,SA Yadav,4,13
+603,Mumbai Indians,KA Pollard,HH Pandya,16,46
+604,Mumbai Indians,KH Pandya,HH Pandya,15,45
+605,Mumbai Indians,KH Pandya,BB Sran,9,2
+606,Mumbai Indians,BB Sran,RD Chahar,1,1
+619,Sunrisers Hyderabad,DA Warner,WP Saha,38,28
+620,Sunrisers Hyderabad,DA Warner,MK Pandey,43,36
+621,Sunrisers Hyderabad,Mohammad Nabi,DA Warner,3,0
+622,Sunrisers Hyderabad,Mohammad Nabi,KS Williamson,17,14
+623,Sunrisers Hyderabad,Mohammad Nabi,Rashid Khan,0,1
+624,Sunrisers Hyderabad,V Shankar,Rashid Khan,4,0
+625,Sunrisers Hyderabad,V Shankar,Abhishek Sharma,3,5
+635,Delhi Capitals,S Dhawan,PP Shaw,0,4
+636,Delhi Capitals,S Dhawan,SS Iyer,19,29
+637,Delhi Capitals,SS Iyer,RR Pant,6,5
+638,Delhi Capitals,CA Ingram,SS Iyer,1,2
+639,Delhi Capitals,AR Patel,SS Iyer,9,6
+640,Delhi Capitals,SS Iyer,SE Rutherford,0,2
+641,Delhi Capitals,CH Morris,SS Iyer,0,1
+642,Delhi Capitals,J Suchith,SS Iyer,1,0
+643,Delhi Capitals,A Mishra,J Suchith,2,5
+644,Delhi Capitals,A Mishra,TA Boult,6,1
+645,Chennai Super Kings,SR Watson,F du Plessis,0,4
+646,Chennai Super Kings,SK Raina,F du Plessis,44,35
+647,Chennai Super Kings,MS Dhoni,SK Raina,0,15
+648,Chennai Super Kings,MS Dhoni,RA Jadeja,18,25
+649,Chennai Super Kings,MS Dhoni,AT Rayudu,26,5
+650,Sunrisers Hyderabad,MJ Guptill,WP Saha,14,25
+651,Sunrisers Hyderabad,MJ Guptill,MK Pandey,1,16
+652,Sunrisers Hyderabad,KS Williamson,MK Pandey,3,5
+653,Sunrisers Hyderabad,MK Pandey,V Shankar,20,12
+654,Sunrisers Hyderabad,MK Pandey,Abhishek Sharma,5,2
+655,Sunrisers Hyderabad,Mohammad Nabi,MK Pandey,31,17
+656,Sunrisers Hyderabad,MK Pandey,Rashid Khan,8,0
+657,Mumbai Indians,RG Sharma,Q de Kock,24,11
+658,Mumbai Indians,Q de Kock,SA Yadav,25,23
+659,Mumbai Indians,Q de Kock,E Lewis,0,1
+660,Mumbai Indians,Q de Kock,HH Pandya,10,18
+661,Mumbai Indians,KA Pollard,Q de Kock,10,21
+662,Mumbai Indians,Q de Kock,KH Pandya,2,9
+674,Delhi Capitals,S Dhawan,PP Shaw,16,8
+675,Delhi Capitals,SS Iyer,PP Shaw,0,0
+676,Delhi Capitals,SS Iyer,RR Pant,15,18
+677,Delhi Capitals,CA Ingram,RR Pant,12,10
+678,Delhi Capitals,SE Rutherford,RR Pant,11,11
+679,Delhi Capitals,AR Patel,RR Pant,1,14
+696,Sunrisers Hyderabad,MJ Guptill,WP Saha,25,20
+697,Sunrisers Hyderabad,MJ Guptill,MK Pandey,5,9
+698,Sunrisers Hyderabad,KS Williamson,MK Pandey,1,0
+699,Sunrisers Hyderabad,KS Williamson,V Shankar,18,27
+700,Sunrisers Hyderabad,YK Pathan,KS Williamson,3,16
+701,Sunrisers Hyderabad,Mohammad Nabi,KS Williamson,4,6
+702,Sunrisers Hyderabad,KS Williamson,Rashid Khan,1,1
+703,Sunrisers Hyderabad,KS Williamson,B Kumar,28,7
+709,Chennai Super Kings,SR Watson,F du Plessis,7,21
+710,Chennai Super Kings,SK Raina,F du Plessis,53,67
+711,Chennai Super Kings,MS Dhoni,F du Plessis,5,8
+712,Chennai Super Kings,MS Dhoni,AT Rayudu,2,1
+713,Chennai Super Kings,MS Dhoni,KM Jadhav,1,0
+714,Chennai Super Kings,MS Dhoni,DJ Bravo,2,1
+715,Mumbai Indians,RG Sharma,Q de Kock,14,30
+716,Mumbai Indians,RG Sharma,SA Yadav,41,46
+724,Mumbai Indians,RG Sharma,Q de Kock,4,0
+725,Mumbai Indians,Q de Kock,SA Yadav,8,6
+726,Mumbai Indians,SA Yadav,Ishan Kishan,47,28
+727,Mumbai Indians,SA Yadav,KH Pandya,0,0
+728,Mumbai Indians,SA Yadav,HH Pandya,18,13
+729,Chennai Super Kings,SR Watson,F du Plessis,0,6
+730,Chennai Super Kings,SR Watson,SK Raina,0,5
+731,Chennai Super Kings,SR Watson,M Vijay,10,10
+732,Chennai Super Kings,AT Rayudu,M Vijay,15,16
+733,Chennai Super Kings,MS Dhoni,AT Rayudu,37,27
+734,Delhi Capitals,S Dhawan,PP Shaw,17,47
+735,Delhi Capitals,SS Iyer,PP Shaw,8,8
+736,Delhi Capitals,RR Pant,PP Shaw,2,1
+737,Delhi Capitals,C Munro,RR Pant,14,10
+738,Delhi Capitals,AR Patel,RR Pant,0,0
+739,Delhi Capitals,SE Rutherford,RR Pant,9,31
+740,Delhi Capitals,KMA Paul,RR Pant,0,6
+741,Delhi Capitals,A Mishra,KMA Paul,1,1
+742,Delhi Capitals,TA Boult,KMA Paul,0,4
+743,Sunrisers Hyderabad,MJ Guptill,WP Saha,23,8
+744,Sunrisers Hyderabad,MJ Guptill,MK Pandey,13,12
+745,Sunrisers Hyderabad,KS Williamson,MK Pandey,12,18
+746,Sunrisers Hyderabad,KS Williamson,V Shankar,16,3
+747,Sunrisers Hyderabad,Mohammad Nabi,V Shankar,14,22
+748,Sunrisers Hyderabad,Mohammad Nabi,DJ Hooda,6,4
+749,Sunrisers Hyderabad,DJ Hooda,Rashid Khan,0,0
+750,Sunrisers Hyderabad,B Kumar,Rashid Khan,0,0
+751,Sunrisers Hyderabad,B Kumar,Basil Thampi,0,1
+752,Chennai Super Kings,SR Watson,F du Plessis,26,50
+753,Chennai Super Kings,SR Watson,SK Raina,24,3
+754,Chennai Super Kings,AT Rayudu,SK Raina,10,8
+755,Chennai Super Kings,MS Dhoni,AT Rayudu,9,9
+756,Chennai Super Kings,AT Rayudu,DJ Bravo,1,0
+757,Delhi Capitals,S Dhawan,PP Shaw,15,5
+758,Delhi Capitals,S Dhawan,C Munro,3,13
+759,Delhi Capitals,C Munro,SS Iyer,14,5
+760,Delhi Capitals,SS Iyer,RR Pant,8,10
+761,Delhi Capitals,AR Patel,RR Pant,3,2
+762,Delhi Capitals,SE Rutherford,RR Pant,10,7
+763,Delhi Capitals,KMA Paul,RR Pant,3,13
+764,Delhi Capitals,A Mishra,RR Pant,0,6
+765,Delhi Capitals,A Mishra,TA Boult,6,6
+766,Delhi Capitals,A Mishra,I Sharma,0,10
+767,Chennai Super Kings,SR Watson,F du Plessis,7,26
+768,Chennai Super Kings,SR Watson,SK Raina,26,8
+769,Chennai Super Kings,AT Rayudu,SR Watson,1,2
+770,Chennai Super Kings,MS Dhoni,SR Watson,2,6
+771,Chennai Super Kings,SR Watson,DJ Bravo,35,15
+772,Chennai Super Kings,SR Watson,RA Jadeja,4,5
+773,Chennai Super Kings,RA Jadeja,SN Thakur,0,2
+774,Mumbai Indians,RG Sharma,Q de Kock,15,29
+775,Mumbai Indians,RG Sharma,SA Yadav,0,0
+776,Mumbai Indians,SA Yadav,Ishan Kishan,15,20
+777,Mumbai Indians,KH Pandya,Ishan Kishan,7,0
+778,Mumbai Indians,KA Pollard,Ishan Kishan,9,3
+779,Mumbai Indians,KA Pollard,HH Pandya,23,16
+780,Mumbai Indians,KA Pollard,RD Chahar,0,0
+781,Mumbai Indians,KA Pollard,MJ McClenaghan,1,0
+782,Mumbai Indians,KA Pollard,JJ Bumrah,8,0
